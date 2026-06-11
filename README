@@ -1,24 +1,45 @@
 # 🔎 Buscador IBA
 
-Um buscador simples e eficiente desenvolvido em Python, projetado para localizar informações de forma rápida e prática.
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+> Um buscador desenvolvido em Python para automatizar a localização de informações de forma rápida e eficiente via terminal.
 
 ---
 
-## 🚀 Tecnologias
+## 📸 Demonstração
 
-- 🐍 Python
-- 📦 Bibliotecas padrão do Python
-- 🖥️ Terminal / CLI
+<p align="center">
+  <img src="docs/demo.gif" alt="Demonstração do projeto" width="600"/>
+</p>
 
----
-
-## 📌 Funcionalidades
-
-✅ Busca de dados de forma automatizada  
-✅ Interface simples via terminal  
-✅ Código leve e fácil de adaptar  
-✅ Estrutura organizada para expansão  
+> ⚠️ *Adicione aqui um GIF mostrando o uso do projeto (veja como criar abaixo).*
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📌 Sobre o projeto
+
+O **Buscador IBA** é uma ferramenta simples, porém poderosa, criada para realizar buscas automatizadas diretamente via terminal.
+
+Ele foi projetado para ser:
+
+- 🚀 Rápido
+- 🧩 Fácil de usar
+- 🔧 Adaptável para diferentes tipos de busca
+- 💡 Base para projetos maiores
+
+Ideal para quem quer automatizar tarefas ou aprender Python na prática.
+
+---
+
+## ⚙️ Funcionalidades
+
+- 🔎 Busca interativa via terminal  
+- 📄 Exibição organizada de resultados  
+- 🧠 Estrutura simples e fácil de modificar  
+- ⚡ Execução rápida  
+
+---
+
+## 🗂️ Estrutura do projeto
