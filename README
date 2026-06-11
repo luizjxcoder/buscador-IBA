@@ -1,4 +1,8 @@
-# 🔎 Buscador IBA
+<h1 align="center">🔎 Buscador IBA</h1>
+
+<p align="center">
+  Ferramenta simples e poderosa para automação de buscas em Python
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
