@@ -56,7 +56,7 @@ Ideal para quem quer automatizar tarefas ou aprender Python na prática.
 
 ---
 
-## 🧪 Exemplo de uso
+## 🧪 Exemplo de uso e Estrutura do Projeto
 
 ```bash
 python buscador.py
