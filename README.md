@@ -46,16 +46,6 @@ Ideal para quem quer automatizar tarefas ou aprender Python na prática.
 
 ---
 
-## 🗂️ Estrutura do projeto
-
-buscador-IBA/
-│
-├── buscador.py     # Script principal
-├── README.md       # Documentação
-└── docs/
-    └── demo.gif    # Demonstração (opcional)
-
-
 ## 🚀 Funcionalidades
 
 - 🔎 Busca interativa via terminal  
