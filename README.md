@@ -47,70 +47,7 @@ Ideal para quem quer automatizar tarefas ou aprender Python na prática.
 ---
 
 ## 🗂️ Estrutura do projeto
-2️⃣ Entrada do usuário
-O programa solicita um termo de busca:
-Digite o termo de busca:
 
-👉 Utiliza input() para capturar o valor digitado.
-
-3️⃣ Tratamento da entrada
-O termo informado pode passar por:
-
-Remoção de espaços extras
-Padronização (ex: minúsculas)
-Validação básica
-
-
-4️⃣ Lógica de busca
-O núcleo do sistema executa a busca:
-
-Percorre uma estrutura de dados
-Compara cada item com o termo digitado
-Verifica correspondência
-
-Exemplo de lógica:
-Pythonif termo in item:Mostrar mais linhas
-
-5️⃣ Filtragem
-Somente os resultados relevantes são mantidos:
-
-Busca parcial ou completa
-Filtragem por palavra-chave
-
-
-6️⃣ Exibição
-Resultados exibidos no terminal:
-Resultados encontrados:
-✔ Resultado 1
-✔ Resultado 2
-✔ Resultado 3
-
-Caso não existam:
-Nenhum resultado encontrado.
-
-
-🚀 Funcionalidades
-
-🔎 Busca interativa via terminal
-📥 Entrada dinâmica do usuário
-⚡ Execução rápida
-🧠 Código simples e didático
-🔧 Fácil adaptação
-
-
-🧪 Exemplo de uso
-Shellpython buscador.pyMostrar mais linhas
-Entrada:
-> python
-
-Saída:
-Resultados encontrados:
-✔ Curso de Python
-✔ Livro Python básico
-✔ Documentação oficial
-
-
-📂 Estrutura do projeto
 buscador-IBA/
 │
 ├── buscador.py     # Script principal
@@ -119,32 +56,30 @@ buscador-IBA/
     └── demo.gif    # Demonstração (opcional)
 
 
-🎯 Aplicações
-Este projeto pode ser usado para:
+## 🚀 Funcionalidades
 
-📚 Estudos de Python
-🔍 Busca em dados locais
-📂 Filtragem de informações
-🤖 Automação simples
-🧪 Protótipos
+- 🔎 Busca interativa via terminal  
+- 📥 Entrada dinâmica do usuário  
+- ⚡ Execução rápida  
+- 🧠 Código simples e didático  
+- 🔧 Fácil adaptação  
 
-🛠️ Melhorias futuras
+---
 
-🌐 Interface web (Flask ou React)
-📊 Filtros avançados
-💾 Exportação de resultados
-🔗 Integração com APIs
-📁 Leitura de CSV/JSON
+## 🧪 Exemplo de uso
 
+```bash
+python buscador.py
 
-🤝 Contribuição
-Shell# Fork o projetogit checkout -b minha-featuregit commit -m "Minha melhoria"git push origin minha-featureMostrar mais linhas
-Abra um Pull Request 🚀
+buscador-IBA/
+│
+├── buscador.py     # Script principal
+├── README.md       # Documentação
+└── docs/
+    └── demo.gif    # Demonstração (opcional)
 
-👨‍💻 Autor
-Luiz Alberto Junior
-📍 Pindamonhangaba - SP
-🔗 https://github.com/luizjxcoder
+    # Fork o projeto
+git checkout -b minha-feature
 
-⭐ Apoie
-Se este projeto te ajudou, deixe uma ⭐ no repositório!
+git commit -m "Minha melhoria"
+git push origin minha-feature
