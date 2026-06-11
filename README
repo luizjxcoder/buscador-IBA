@@ -1,0 +1,24 @@
+# 🔎 Buscador IBA
+
+Um buscador simples e eficiente desenvolvido em Python, projetado para localizar informações de forma rápida e prática.
+
+---
+
+## 🚀 Tecnologias
+
+- 🐍 Python
+- 📦 Bibliotecas padrão do Python
+- 🖥️ Terminal / CLI
+
+---
+
+## 📌 Funcionalidades
+
+✅ Busca de dados de forma automatizada  
+✅ Interface simples via terminal  
+✅ Código leve e fácil de adaptar  
+✅ Estrutura organizada para expansão  
+
+---
+
+## 📂 Estrutura do Projeto
